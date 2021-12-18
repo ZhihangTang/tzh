@@ -1,4 +1,5 @@
 add line for c.txt on b2 branch
 add line for c.txt on dev branch at thinkpadx1
-add line for c.txt on b2 branch
+
 add line for c.txt on dev branch at home_pc!
+delete line for c.txt on dev branch at tkpadx1
